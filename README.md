@@ -7,7 +7,7 @@
 ## (2)動作環境
 
 - Windows11
-- Python 12.x.x
+- Python 3.12.x
 - Pillowがインストールされていること
 
 # ■2.使用方法
